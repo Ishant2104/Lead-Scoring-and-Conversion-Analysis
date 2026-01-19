@@ -98,7 +98,7 @@ The target variable indicates whether a lead ultimately converted.
 ---
 
 ## Key Results
-- **Top 3 variables contributing the lead conversions are:
+- **Top 3 variables contributing the lead conversions are:**
   1. Total time spent on website
   2. Last Activity – Had a Phone Conversation / SMS Sent
   3. Lead Source (e.g., Welingak Website / Referral Sites)
